@@ -39,12 +39,15 @@ You can reach out to me through the following channels:
 - **LinkedIn**: (https://www.linkedin.com/in/tejas-s-88302928b)
 - **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
 
-## Github Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vootlasaicharan&theme=dark)
-
 ## GitHub Activity Dashboard
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejaskumar01&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaskumar01&layout=compact&theme=dark)
+
+## Github Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tejaskumar01&theme=dark)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejaskumar01&show_icons=true&count_private=true&hide_title=true&theme=dark)
+
 
 Thanks for visiting my portfolio!
 
