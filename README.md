@@ -41,7 +41,7 @@ You can reach out to me through the following channels:
 
 ## GitHub Activity Dashboard
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejaskumar01&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaskumar01&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaskumar01&layout=compact&theme=dark)
 
 Thanks for visiting my portfolio!
 
