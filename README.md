@@ -1,6 +1,6 @@
-# Tejas S. Portfolio
+<h1 align="center"> Hi 👋,I'm Tejas S. Portfolio </h1>
 
-Welcome to my portfolio! Here you'll find details about me, my skills, tools I work with, and how to get in touch.
+<h2 align="center"> Welcome to my portfolio! Here you'll find details about me, my skills, tools I work with, and how to get in touch. </h2>
 
 ## About Me
 Hello, I'm Tejas S., a passionate DevOps Engineer with a keen interest in technology and problem-solving. I enjoy creating innovative solutions and working with various tech stacks. I'm always eager to learn and take on new challenges.
@@ -33,20 +33,30 @@ Here are some of the skills and tools that I work with:
   - Windows
 
 ## Contact Me
-You can reach out to me through the following channels:
 
-- **Email**: (itsmetejaskumar07@gmail.com)
-- **LinkedIn**: (https://www.linkedin.com/in/tejas-s-88302928b)
-- **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
+<a href="mailto:itsmetejaskumar07@gmail.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email" /></a>  <a href="https://www.linkedin.com/in/tejas-s-88302928b"><img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" /></a> <a href="https://twitter.com/YourHandle"><img src="https://img.icons8.com/color/30/000000/twitter.png" alt="Twitter" /></a>
 
-## GitHub Activity Dashboard
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaskumar01&layout=compact&theme=dark)
+---
 
-## Github Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tejaskumar01&theme=dark)
+### **GitHub Stats and Streaks**
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejaskumar01&show_icons=true&count_private=true&hide_title=true&theme=dark)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Tejaskumar01&label=Profile%20views&color=0e75b6&style=flat" alt="Tejaskumar01" /> </p>
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejaskumar01&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+<p>
+<img align ="center" src="https://github-readme-stats.vercel.app/api?username=Tejaskumar01&show_icons=true&count_private=true&hide_title=true&theme=dark" />
+</p>
+
+<h3 align="left">GitHub Streaks:</h3>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejaskumar01&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
 
 
 Thanks for visiting my portfolio!
